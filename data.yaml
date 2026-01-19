@@ -1,0 +1,7 @@
+train: C:/Users/Li553/yolo1/datasets/train/images
+val:   C:/Users/Li553/yolo1/datasets/val/images
+test:  C:/Users/Li553/yolo1/datasets/test2/images
+
+nc: 1
+names:
+  - orifice
