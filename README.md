@@ -15,6 +15,9 @@
 This repository contains a YOLO‑based project for detecting bronchial orifices in bronchoscopy images and videos.  
 It is set up for reproducible training, evaluation, and inference using [`uv`](https://github.com/astral-sh/uv).
 
+
+![BronchoLumen sample](./samples/frame1.jpg)
+
 ---
 
 ## 🗂 Project Structure
