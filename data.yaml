@@ -1,6 +1,6 @@
-train: C:/Users/Li553/yolo1/datasets/train/images
-val:   C:/Users/Li553/yolo1/datasets/val/images
-test:  C:/Users/Li553/yolo1/datasets/test2/images
+train: datasets/train/images
+val:   datasets/val/images
+test:  datasets/test2/images
 
 nc: 1
 names:
